@@ -15,6 +15,10 @@
   ],
   "author": "SafwanGanz <safwanganz@gmail.com>",
   "license": "MIT",
+    "dependencies": {
+       "truecallerjs": "^1.1.2",
+       "awesome-phonenumber": "^4.3.0"
+ },
   "bugs": {
     "url": "https://github.com/SafwanGanz/node-truecaller/issues"
   },
