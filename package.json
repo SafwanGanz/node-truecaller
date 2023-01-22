@@ -1,1 +1,22 @@
-
+{
+  "name": "node-truecaller",
+  "version": "1.0.0",
+  "description": "Node module to easily lookup any number details.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SafwanGanz/node-truecaller"
+  },
+  "keywords": [
+    "truecall",
+    "truecaller",
+    "truecalljs",
+    "node-truecaller"
+  ],
+  "author": "SafwanGanz <safwanganz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SafwanGanz/node-truecaller/issues"
+  },
+  "homepage": "https://github.com/SafwanGanz/node-truecaller#readme"
+}
