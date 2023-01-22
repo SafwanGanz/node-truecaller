@@ -12,3 +12,4 @@ var sn = await searchNumber(searchData);
 return sn
 
 }
+module.exports = search
