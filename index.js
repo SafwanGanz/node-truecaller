@@ -1,3 +1,4 @@
+"use strict"
 const { searchNumber } = require('truecallerjs');
 module.exports = {
   lookup: function lookup(number) {
