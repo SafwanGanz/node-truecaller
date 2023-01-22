@@ -1,4 +1,4 @@
-const {searchNumber} = require('truecallerjs');
+const searchNumber = require('truecallerjs');
 async function search (number, id) {
 var searchData = {
     number: number,
