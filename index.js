@@ -1,8 +1,7 @@
 "use strict";
 
 const { searchNumber } = require('truecallerjs');
-module.exports = {
-  lookup: function lookup(number) {
+function lookup(number) {
 var searchData = {
     number: number,
     countryCode: "IN",
@@ -14,4 +13,5 @@ var sn = await searchNumber(searchData);
 
 return sn
 }
-}
+
+module.exports = lookup;
