@@ -1,7 +1,7 @@
 "use strict";
 
 const { searchNumber } = require('truecallerjs');
-function lookup(number) {
+async function lookup(number) {
 var searchData = {
     number: number,
     countryCode: "IN",
